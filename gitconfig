@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = henryo.davis@gmail.com
+	name = henry davis
